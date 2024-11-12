@@ -3,6 +3,10 @@ Produisez une étude de marché avec R ou Python
 
 # Analyse des Marchés Internationaux - Projet La Poule qui Chante
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet9.PNG)
+
 ## Contexte
 
 Je travaille chez **La Poule qui Chante**, une entreprise française de l’agroalimentaire spécialisée dans les produits à base de poulet. Dans le cadre de son développement à l'international, l'entreprise souhaite identifier les groupements de pays les plus pertinents pour l'exportation de ses produits. Mon rôle en tant que Data Analyst est de réaliser une première segmentation des pays afin de proposer des cibles potentielles pour l’exportation.
